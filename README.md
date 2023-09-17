@@ -7,7 +7,9 @@ A GUI that displays flash cards to aid the learning of the most common Spanish w
 - Setup a feature that allows the user to display the next word. 
 - Design functionality that automatically flips the card to display the English translation after a set amount of time.
 - Create a save feature for the unknown words.
-- 
+- When the app is restarted, only unknown words would be shown.
+
+
 # Results
 
 Front Card
