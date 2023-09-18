@@ -37,7 +37,7 @@ start --> ui
 ui -->|Word Unknown|flip
 flip --> cross_button
 cross_button --> save
-save --> finish
+save --> next
 ui -->|Word Known|check_button
 check_button --> next
 next --> finish
